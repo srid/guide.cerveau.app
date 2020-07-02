@@ -1,3 +1,3 @@
 # Cerveau Guide
 
-TODO
+This site will contain the documentation for [Cerveau](http://www.cerveau.app/).
