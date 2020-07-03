@@ -8,3 +8,4 @@ Cerveau uses neuron underneath and as such behaves the same as neuron. However, 
 
 * **Raw HTML** is unsupported. For security reasons, Cerveau will show the raw HTML in your zettel file as-is, without rendering it.
 
+See also <known-issues?cf> for some differences not listed here.
