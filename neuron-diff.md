@@ -2,5 +2,9 @@
 date: 2020-07-03
 ---
 
-# New zettel on 2020-07-03
+# Differences from neuron
+
+Cerveau uses neuron underneath, but there are some differences you should be aware of:
+
+* **Raw HTML** is unsupported. For security reasons, Cerveau will show the raw HTML in your zettel file as-is, without rendering it.
 
