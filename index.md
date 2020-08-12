@@ -1,3 +1,5 @@
 # Cerveau Guide
 
-This site will contain the documentation for [Cerveau](http://www.cerveau.app/).
+:::{.ui .message}
+This site will be ready by the time [Cerveau](http://www.cerveau.app/) gets released publicly.
+:::
