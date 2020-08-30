@@ -1,5 +1,7 @@
 # Cerveau Guide
 
+Welcome to the documentation site for [Cerveau](http://www.cerveau.app/).
+
 ## Features
 
 ### Sync with Git
@@ -31,6 +33,3 @@ Status: to be done.
 - <neuron-diff>
 - <known-issues>
 
-**TODO after public beta**:
-- [ ] Recent Changes page
-- [ ] Retire <ac48f1d0?cf>
