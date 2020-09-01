@@ -6,10 +6,10 @@ date: 2020-07-03
 
 These issues will eventually be addressed as Cerveau progresses through beta.
 
-- MathJax will not render.
-- Very large notes render slow
+- [MathJax](https://neuron.zettel.page/2013701.html) rendering is disabled.
 - Tag links are disabled
-- Images do not show up when the repo is private
+- Images from static folder do not show up if the repo is private
+- Very large notes render slow
 
 ## Git sync
 
