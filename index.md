@@ -7,7 +7,7 @@
 ## Features
 
 ### Sync with Git
-Cerveau uses GitHub to store your Neuron notes. View and edit notes directly from your Git repo.
+Cerveau uses GitHub to store your Neuron notes. View and edit notes directly from your [Git repo](https://guides.github.com/introduction/git-handbook/).
 
 ### Markdown editor
 Edit [Markdown](https://neuron.zettel.page/2011404.html) with live preview. [Link](https://neuron.zettel.page/2011504.html) to notes by search. Optional Vim keybindings.
