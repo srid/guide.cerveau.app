@@ -10,10 +10,10 @@
 Cerveau uses GitHub to store your Neuron notes. View and edit notes directly from your Git repo.
 
 ### Markdown editor
-Edit Markdown with live preview. Link to notes by search. Optional Vim keybindings.
+Edit [Markdown](https://neuron.zettel.page/2011404.html) with live preview. [Link](https://neuron.zettel.page/2011504.html) to notes by search. Optional Vim keybindings.
 
 ### Neuron + more
-All of [neuron](https://neuron.zettel.page/)'s feature are supported: z-index, queries, themes, etc. Cerveau is built on top of the [open-source neuron](https://github.com/srid/neuron), and thereby will remain compatible with the later. Your neuron notes automatically work with Cerveau, and vice versa.
+All of [neuron](https://neuron.zettel.page/)'s feature are supported: z-index, [queries](https://neuron.zettel.page/2011506.html), themes, etc. Cerveau is built on top of the [open-source neuron](https://github.com/srid/neuron), and thereby will remain compatible with the later. Your neuron notes automatically work with Cerveau, and vice versa.
 
 ### Seamless Publishing
 Publish your notes automatically on every change. 
