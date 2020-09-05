@@ -27,6 +27,10 @@ Collaborate on community zettelkastens, via tight integration with GitHub Pull R
 
 Status: to be done.
 
+## Pricing & Open Source
+
+See <https://github.com/sponsors/srid>
+
 ## Bug reports / feature requests / questions
 
 Post at <https://github.com/srid/cerveau-issues/issues> or contact srid@srid.ca.
