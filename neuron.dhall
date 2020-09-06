@@ -1,4 +1,4 @@
-{ siteTitle = "Cerveau Guide"
+{ siteTitle = "Cerveau User Guide"
 , author = Some "Sridhar Ratnakumar"
 , siteBaseUrl = Some "https://guide.cerveau.app"
 -- List of themes: https://neuron.zettel.page/2014601.html
