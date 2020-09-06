@@ -10,7 +10,7 @@ If you are already familiar with Neuron, see [[[neuron-diff]]] and [[[known-issu
 - Edit your notes, by saving directly to GitHub
 - Markdown editor with syntax highlighting
 
-## What's being worked on
+## What's coming next
 
 - Editor: Link autocomplete
 - Keyboard shortcuts: Ctrl+O to open; Ctrl+S to save
