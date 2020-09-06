@@ -1,41 +1,29 @@
 # Cerveau Guide
 
-:::{.ui .purple .large .segment .message}
 [Cerveau](https://www.cerveau.app/) enables you to view and edit your [neuron](https://neuron.zettel.page/) Zettelkasten notes online. By using neuron, your notes are guaranteed to remain [future-proof](https://neuron.zettel.page/6f0f0bcc.html). As Cerveau seamlessly works with GitHub, your notes are stored safely and reliably in a [Git repository](https://guides.github.com/introduction/git-handbook/) with full version history.
-:::
 
-## Features
+If you are already familiar with Neuron, see [[[neuron-diff]]] and [[[known-issues]]].
 
-### Sync with Git
-Cerveau uses GitHub to store your Neuron notes. View and edit notes directly from your [Git repo](https://guides.github.com/introduction/git-handbook/).
+## What works right now
 
-### Markdown editor
-Edit [Markdown](https://neuron.zettel.page/2011404.html) with live preview. [Link](https://neuron.zettel.page/2011504.html) to notes by search. Optional Vim keybindings.
+- Browse your notes just as it looks on the statically generated site
+- Edit your notes, by saving directly to GitHub
+- Markdown editor with syntax highlighting
 
-### Neuron + more
-All of [neuron](https://neuron.zettel.page/)'s feature are supported: z-index, [queries](https://neuron.zettel.page/2011506.html), themes, etc. Cerveau is built on top of the [open-source neuron](https://github.com/srid/neuron), and thereby will remain compatible with the later. Your neuron notes automatically work with Cerveau, and vice versa.
+## What's being worked on
 
-### Seamless Publishing
-Publish your notes automatically on every change. 
-
-Status: 
-- For public repositories, publishing is supported via [neuron-template](https://github.com/srid/neuron-template).
-- Publishing for private repositories is in roadmap.
-
-### Collaborative editing
-Collaborate on community zettelkastens, via tight integration with GitHub Pull Requests.
-
-Status: to be done.
+- Editor: Link autocomplete
+- Keyboard shortcuts: Ctrl+O to open; Ctrl+S to save
 
 ## Pricing & Open Source
 
-See <https://github.com/sponsors/srid>
+* See <https://github.com/sponsors/srid> for pricing.
 
-## Bug reports / feature requests / questions
+* See [here](https://twitter.com/sridca/status/1302280845902970883) for open-sourcing Cerveau.
 
-Post at <https://github.com/srid/cerveau-issues/issues> or contact srid@srid.ca.
+## Contact
 
-## Already familiar with neuron?
-- <neuron-diff>
-- <known-issues>
+<srid@srid.ca>
+
+
 
