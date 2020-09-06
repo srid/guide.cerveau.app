@@ -21,6 +21,10 @@ If you are already familiar with Neuron, see [[[neuron-diff]]] and [[[known-issu
 
 * See [here](https://twitter.com/sridca/status/1302280845902970883) for open-sourcing Cerveau.
 
+## Contact Email
+
+<srid@srid.ca>
+
 ## Latest News
 
 <a class="twitter-timeline" href="https://twitter.com/CerveauApp?ref_src=twsrc%5Etfw">Tweets by CerveauApp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
