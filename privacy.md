@@ -1,8 +1,5 @@
----
-date: 2020-09-08T11:54
----
+# Privacy Policy
 
-# New zettel: privacy
-
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+- A copy of your Git repository is cached on the Cerveau server for functional reasons
+- The cached copy is securely stored in the server, and never exposed outside
+- Your data will not be sold to anyone, now or in future.
