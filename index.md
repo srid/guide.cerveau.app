@@ -8,11 +8,10 @@ If you are already familiar with Neuron, see [[[neuron-diff]]] and [[[known-issu
 
 - Browse your notes just as it looks on the statically generated site
 - Edit your notes, by saving directly to GitHub
-- Markdown editor with syntax highlighting
+- Markdown editor with syntax highlighting and link autocomplete
 
 ## What's coming next
 
-- Editor: Link autocomplete
 - Keyboard shortcuts: Ctrl+O to open; Ctrl+S to save
 
 ## Pricing & Open Source
