@@ -4,9 +4,8 @@ date: 2020-07-03
 
 # Known issues
 
-- Tag links are disabled
 - Images from static folder do not show up if the repo is private
-- Very large notes render slow
+- Very large notes may render slow
 
 ## Git sync
 
