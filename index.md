@@ -4,16 +4,6 @@
 
 If you are already familiar with Neuron, see [[[neuron-diff]]] and [[[known-issues]]].
 
-## What works right now
-
-- Browse your notes just as it looks on the statically generated site
-- Edit your notes, by saving directly to GitHub
-- Markdown editor with syntax highlighting and link autocomplete
-
-## What's coming next
-
-- Keyboard shortcuts: Ctrl+O to open; Ctrl+S to save
-
 ## Pricing & Open Source
 
 * See <https://github.com/sponsors/srid> for pricing.
