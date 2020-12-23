@@ -6,9 +6,7 @@ If you are already familiar with Neuron, see [[[neuron-diff]]] as well as [[[kno
 
 ## Pricing & Open Source
 
-* See <https://github.com/sponsors/srid> for pricing.
-
-* See [here](https://twitter.com/sridca/status/1302280845902970883) for open-sourcing Cerveau.
+* See <https://github.com/sponsors/srid> for pricing and the open-source goal.
 
 ## Contact Email
 
